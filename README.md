@@ -29,8 +29,7 @@ same folder as the script.
 - Many toddlers scored near the top of the pretend play scale, so a
   ceiling effect is possible
 
-![Pretend play and executive function](<img width="768" height="856" alt="image" src="https://github.com/user-attachments/assets/bd6b951b-1f36-4f49-a0b1-71e800de84ab" />
-)
+![Pretend play and executive function](<img width="1199" height="1337" alt="eps_cef_plot" src="https://github.com/user-attachments/assets/244bc2c8-64e6-44b2-aa9e-d3d68dc72b98" />
 
 ## Tools
 
